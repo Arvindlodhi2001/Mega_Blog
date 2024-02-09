@@ -1,0 +1,30 @@
+
+1 . Create for Vite app
+
+npm create vite@latest  
+
+2 . install axios for api fetching
+
+npm i axios
+
+3 . Add Redux toolkit in project
+
+npm i @reduxjs/toolkit
+npm i react-redux
+
+4. TinyMCE using for writing Box and more function provide *******
+
+npm i @tinymce/tinymce-react
+npm i tinymce
+
+5 HTML react Parser *****
+
+npm i html-react-parser
+
+6 React Router Dom Is is using for Rouging for pages
+
+npm i react-router-dom
+
+7 Using for Form 
+
+npm i react-hook-form
